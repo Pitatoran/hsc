@@ -205,3 +205,8 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
   text-align: right;
   font-size: 15px;
 }
+
+.disclaimer {
+  font-size: 10px;
+  text-align: center;
+}
